@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "声の欠片（feat. 月）",
+  "base_artist": "MIMI",
+  "createdAt": "2026-01-12T06:31:58.085820Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "声の欠片 (feat. 月)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_声の欠片_(feat._月)_MIMI.txt"
+    }
+  ]
+}
